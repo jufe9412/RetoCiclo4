@@ -1,5 +1,5 @@
 package com.example.reto5_final.entities.DTOs;
-
+//final entities cliente
 import com.example.reto5_final.entities.Client;
 
 public class CountClient {

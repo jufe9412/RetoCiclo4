@@ -1,5 +1,6 @@
 package com.example.reto5_final.controller;
 
+//controlador del administrador
 import com.example.reto5_final.entities.Admin;
 import com.example.reto5_final.service.AdminService;
 import org.springframework.beans.factory.annotation.Autowired;

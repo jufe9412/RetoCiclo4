@@ -1,7 +1,7 @@
 package com.example.reto5_final.entities;
 
 import javax.persistence.*;
-
+// entities admin
 @Entity
 @Table(name = "admins")
 public class Admin {

@@ -1,5 +1,5 @@
 package com.example.reto5_final.service;
-
+// service admin
 import com.example.reto5_final.entities.Admin;
 import com.example.reto5_final.repository.AdminRepository;
 import org.springframework.beans.factory.annotation.Autowired;
